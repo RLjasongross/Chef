@@ -1,0 +1,11 @@
+{
+  "uploadOnSave": true,
+  "hostname": "54.152.169.175",
+  "target": "/home/chef",
+  "ignore": [
+    ".git/**"
+  ],
+  "username": "chef",
+  "password": "chef.io",
+  "transport": "scp"
+}
